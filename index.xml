@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello Friend</title>
+    <link>https://kislovskaa.github.io/</link>
+    <description>Recent content on Hello Friend</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 16:17:27 +0300</lastBuildDate>
+    <atom:link href="https://kislovskaa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, my Dear Friend</title>
+      <link>https://kislovskaa.github.io/posts/hello/</link>
+      <pubDate>Fri, 04 Oct 2024 16:17:27 +0300</pubDate>
+      <guid>https://kislovskaa.github.io/posts/hello/</guid>
+      <description>&lt;p&gt;My name is Agata , Vilnius Tech student&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
