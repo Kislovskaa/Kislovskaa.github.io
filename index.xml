@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hello Friend</title>
-    <link>https://kislovskaa.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Hello Friend</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Oct 2024 16:17:27 +0300</lastBuildDate>
-    <atom:link href="https://kislovskaa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Oct 2024 16:31:35 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Naujas Korgis</title>
+      <link>http://localhost:1313/posts/naujas-postas/</link>
+      <pubDate>Fri, 04 Oct 2024 16:31:35 +0300</pubDate>
+      <guid>http://localhost:1313/posts/naujas-postas/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/corgi-puppy.webp&#34; alt=&#34;Corgi šuniukas&#34;&gt;&#xA;Getting started with Hugo website builder!&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hello_world&lt;/span&gt;():&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;It&amp;#39;s CORGI!!!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Hello, my Dear Friend</title>
-      <link>https://kislovskaa.github.io/posts/hello/</link>
+      <link>http://localhost:1313/posts/hello/</link>
       <pubDate>Fri, 04 Oct 2024 16:17:27 +0300</pubDate>
-      <guid>https://kislovskaa.github.io/posts/hello/</guid>
+      <guid>http://localhost:1313/posts/hello/</guid>
       <description>&lt;p&gt;My name is Agata , Vilnius Tech student&lt;/p&gt;</description>
     </item>
   </channel>
